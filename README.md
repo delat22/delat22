@@ -5,7 +5,7 @@
 
   <!--Social Icons-->
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/lateef-babalola-6a7847156/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
@@ -37,9 +37,9 @@
 
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Azure Cloud Services.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lateef-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lateef-babalola-6a7847156/)
 
